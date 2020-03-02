@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="text_error_5dp">5dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="card_height">90dp</dimen>
+    <dimen name="marginTop">5dp</dimen>
+    <dimen name="tvDecri_marginTop">44dp</dimen>
+    <dimen name="constraint_pg_height">341dp</dimen>
+</resources>

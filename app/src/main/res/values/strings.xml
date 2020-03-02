@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iNote</string>
+    <string name="retry">Retry</string>
+    <string name="title_add">Title</string>
+    <string name="save_button">Save</string>
+    <string name="description_add">Description</string>
+    <string name="tvdescription">description</string>
+    <string name="edit_title">Title</string>
+    <string name="button_edit">edit</string>
+</resources>
